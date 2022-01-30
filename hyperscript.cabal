@@ -5,9 +5,9 @@ cabal-version: 1.12
 -- see: https://github.com/sol/hpack
 
 name:           hyperscript
-version:        0.1.0.0
+version:        0.1.0.1
 synopsis:       A parser for the _hyperscript programming language
-description:    Please see the README on GitHub at <https://github.com/githubuser/hyperscript#readme>
+description:    Please see the README on GitHub at <https://github.com/MonadicSystems/hyperscript#readme>
 category:       Web
 homepage:       https://github.com/MonadicSystems/hyperscript#readme
 bug-reports:    https://github.com/MonadicSystems/hyperscript/issues
