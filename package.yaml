@@ -22,6 +22,7 @@ description:         Please see the README on GitHub at <https://github.com/Mona
 dependencies:
 - base >= 4.7 && < 5
 - megaparsec
+- parser-combinators
 - text
 
 library:
@@ -48,3 +49,4 @@ tests:
     - -with-rtsopts=-N
     dependencies:
     - hyperscript
+    - hspec
